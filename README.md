@@ -34,7 +34,7 @@ This project serves as an educational tool to demonstrate how to integrate Redux
 
 ## Demo
 
-<here>
+[Live Demo Link](https://redux-todo-melsoft.vercel.app/)
 
 ## Features
 
